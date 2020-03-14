@@ -1,0 +1,130 @@
+D:\Partha_Roy_Document\Easytech\Easytech\bin\Debug\Easytech.exe
+D:\Partha_Roy_Document\Easytech\Easytech\bin\Debug\Easytech.pdb
+D:\Partha_Roy_Document\Easytech\Easytech\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Partha_Roy_Document\Easytech\Easytech\obj\x86\Debug\Easytech.Form1.resources
+D:\Partha_Roy_Document\Easytech\Easytech\obj\x86\Debug\Easytech.Properties.Resources.resources
+D:\Partha_Roy_Document\Easytech\Easytech\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Partha_Roy_Document\Easytech\Easytech\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Partha_Roy_Document\Easytech\Easytech\obj\x86\Debug\Easytech.exe
+D:\Partha_Roy_Document\Easytech\Easytech\obj\x86\Debug\Easytech.pdb
+D:\Partha_Roy_Document\Easytech\Easytech\obj\x86\Debug\Easytech.Form2.resources
+D:\Partha_Roy_Document\Easytech\Easytech\obj\x86\Debug\Easytech.MDIParent1.resources
+D:\Partha_Roy_Document\Easytech\Easytech\obj\x86\Debug\Easytech.Form3.resources
+D:\Partha_Roy_Document\Easytech\Easytech\obj\x86\Debug\Easytech.Form4.resources
+D:\Partha_Roy_Document\Easytech\Easytech\obj\x86\Debug\Easytech.Form5.resources
+D:\Partha_Roy_Document\Easytech\Easytech\obj\x86\Debug\Easytech.Form6.resources
+D:\Partha_Roy_Document\Easytech\Easytech\obj\x86\Debug\Easytech.Form7.resources
+E:\CHEMISTRY\MY COMPUTER\Partha_Roy_Document\Easytech\Easytech\obj\x86\Debug\Easytech.exe
+E:\CHEMISTRY\MY COMPUTER\Partha_Roy_Document\Easytech\Easytech\obj\x86\Debug\Easytech.pdb
+E:\CHEMISTRY\MY COMPUTER\Partha_Roy_Document\Easytech\Easytech\bin\Debug\Easytech.exe
+E:\CHEMISTRY\MY COMPUTER\Partha_Roy_Document\Easytech\Easytech\bin\Debug\Easytech.pdb
+E:\CHEMISTRY\MY COMPUTER\Partha_Roy_Document\Easytech\Easytech\obj\x86\Debug\Easytech.Form1.resources
+E:\CHEMISTRY\MY COMPUTER\Partha_Roy_Document\Easytech\Easytech\obj\x86\Debug\Easytech.Form2.resources
+E:\CHEMISTRY\MY COMPUTER\Partha_Roy_Document\Easytech\Easytech\obj\x86\Debug\Easytech.Form3.resources
+E:\CHEMISTRY\MY COMPUTER\Partha_Roy_Document\Easytech\Easytech\obj\x86\Debug\Easytech.Form4.resources
+E:\CHEMISTRY\MY COMPUTER\Partha_Roy_Document\Easytech\Easytech\obj\x86\Debug\Easytech.Form5.resources
+E:\CHEMISTRY\MY COMPUTER\Partha_Roy_Document\Easytech\Easytech\obj\x86\Debug\Easytech.Form6.resources
+E:\CHEMISTRY\MY COMPUTER\Partha_Roy_Document\Easytech\Easytech\obj\x86\Debug\Easytech.Form7.resources
+E:\CHEMISTRY\MY COMPUTER\Partha_Roy_Document\Easytech\Easytech\obj\x86\Debug\Easytech.MDIParent1.resources
+E:\CHEMISTRY\MY COMPUTER\Partha_Roy_Document\Easytech\Easytech\obj\x86\Debug\Easytech.Properties.Resources.resources
+E:\CHEMISTRY\MY COMPUTER\Partha_Roy_Document\Easytech\Easytech\obj\x86\Debug\Easytech.csproj.GenerateResource.Cache
+E:\CHEMISTRY\MY COMPUTER\Partha_Roy_Document\Easytech\Easytech\obj\x86\Debug\Easytech.csprojResolveAssemblyReference.cache
+E:\CHEMISTRY\MY COMPUTER\Partha_Roy_Document\Easytech\Easytech\obj\x86\Debug\Easytech.Form8.resources
+E:\CHEMISTRY\MY COMPUTER\Partha_Roy_Document\Easytech\Easytech\obj\x86\Debug\Easytech.Form9.resources
+D:\Partha_Roy_Document\Easytech\Easytech\obj\x86\Debug\Easytech.Form8.resources
+D:\Partha_Roy_Document\Easytech\Easytech\obj\x86\Debug\Easytech.Form9.resources
+D:\Partha_Roy_Document\Easytech\Easytech\obj\x86\Debug\Easytech.Form10.resources
+E:\CHEMISTRY\MY COMPUTER\Partha_Roy_Document\Easytech\Easytech\obj\x86\Debug\Easytech.Form10.resources
+D:\Partha_Roy_Document\Easytech\Easytech\obj\x86\Debug\Easytech.Form11.resources
+E:\CHEMISTRY\MY COMPUTER\Partha_Roy_Document\Easytech\Easytech\obj\x86\Debug\Easytech.Form11.resources
+E:\CHEMISTRY\MY COMPUTER\Partha_Roy_Document\Easytech\Easytech\obj\x86\Debug\Easytech.Form12.resources
+E:\CHEMISTRY\MY COMPUTER\Partha_Roy_Document\Easytech\Easytech\obj\x86\Debug\Easytech.Form13.resources
+E:\CHEMISTRY\MY COMPUTER\Partha_Roy_Document\Easytech\Easytech\bin\Debug\Easytech.exe.config
+E:\CHEMISTRY\MY COMPUTER\Easytech\Easytech\bin\Debug\Easytech.exe.config
+E:\CHEMISTRY\MY COMPUTER\Easytech\Easytech\obj\x86\Debug\Easytech.exe
+E:\CHEMISTRY\MY COMPUTER\Easytech\Easytech\obj\x86\Debug\Easytech.pdb
+E:\CHEMISTRY\MY COMPUTER\Easytech\Easytech\bin\Debug\Easytech.exe
+E:\CHEMISTRY\MY COMPUTER\Easytech\Easytech\bin\Debug\Easytech.pdb
+E:\CHEMISTRY\MY COMPUTER\Easytech\Easytech\obj\x86\Debug\Easytech.csprojResolveAssemblyReference.cache
+E:\CHEMISTRY\MY COMPUTER\Easytech\Easytech\obj\x86\Debug\Easytech.Form1.resources
+E:\CHEMISTRY\MY COMPUTER\Easytech\Easytech\obj\x86\Debug\Easytech.Form10.resources
+E:\CHEMISTRY\MY COMPUTER\Easytech\Easytech\obj\x86\Debug\Easytech.Form11.resources
+E:\CHEMISTRY\MY COMPUTER\Easytech\Easytech\obj\x86\Debug\Easytech.Form12.resources
+E:\CHEMISTRY\MY COMPUTER\Easytech\Easytech\obj\x86\Debug\Easytech.Form13.resources
+E:\CHEMISTRY\MY COMPUTER\Easytech\Easytech\obj\x86\Debug\Easytech.Form2.resources
+E:\CHEMISTRY\MY COMPUTER\Easytech\Easytech\obj\x86\Debug\Easytech.Form3.resources
+E:\CHEMISTRY\MY COMPUTER\Easytech\Easytech\obj\x86\Debug\Easytech.Form4.resources
+E:\CHEMISTRY\MY COMPUTER\Easytech\Easytech\obj\x86\Debug\Easytech.Form5.resources
+E:\CHEMISTRY\MY COMPUTER\Easytech\Easytech\obj\x86\Debug\Easytech.Form6.resources
+E:\CHEMISTRY\MY COMPUTER\Easytech\Easytech\obj\x86\Debug\Easytech.Form7.resources
+E:\CHEMISTRY\MY COMPUTER\Easytech\Easytech\obj\x86\Debug\Easytech.Form8.resources
+E:\CHEMISTRY\MY COMPUTER\Easytech\Easytech\obj\x86\Debug\Easytech.Form9.resources
+E:\CHEMISTRY\MY COMPUTER\Easytech\Easytech\obj\x86\Debug\Easytech.MDIParent1.resources
+E:\CHEMISTRY\MY COMPUTER\Easytech\Easytech\obj\x86\Debug\Easytech.Properties.Resources.resources
+E:\CHEMISTRY\MY COMPUTER\Easytech\Easytech\obj\x86\Debug\Easytech.csproj.GenerateResource.Cache
+E:\CHEMISTRY\MY COMPUTER\Partha_Document\Easytech\Easytech\bin\Debug\Easytech.exe.config
+E:\CHEMISTRY\MY COMPUTER\Partha_Document\Easytech\Easytech\obj\x86\Debug\Easytech.exe
+E:\CHEMISTRY\MY COMPUTER\Partha_Document\Easytech\Easytech\obj\x86\Debug\Easytech.pdb
+E:\CHEMISTRY\MY COMPUTER\Partha_Document\Easytech\Easytech\bin\Debug\Easytech.exe
+E:\CHEMISTRY\MY COMPUTER\Partha_Document\Easytech\Easytech\bin\Debug\Easytech.pdb
+E:\CHEMISTRY\MY COMPUTER\Partha_Document\Easytech\Easytech\obj\x86\Debug\Easytech.csprojResolveAssemblyReference.cache
+E:\CHEMISTRY\MY COMPUTER\Partha_Document\Easytech\Easytech\obj\x86\Debug\Easytech.Form1.resources
+E:\CHEMISTRY\MY COMPUTER\Partha_Document\Easytech\Easytech\obj\x86\Debug\Easytech.Form10.resources
+E:\CHEMISTRY\MY COMPUTER\Partha_Document\Easytech\Easytech\obj\x86\Debug\Easytech.Form11.resources
+E:\CHEMISTRY\MY COMPUTER\Partha_Document\Easytech\Easytech\obj\x86\Debug\Easytech.Form12.resources
+E:\CHEMISTRY\MY COMPUTER\Partha_Document\Easytech\Easytech\obj\x86\Debug\Easytech.Form13.resources
+E:\CHEMISTRY\MY COMPUTER\Partha_Document\Easytech\Easytech\obj\x86\Debug\Easytech.Form2.resources
+E:\CHEMISTRY\MY COMPUTER\Partha_Document\Easytech\Easytech\obj\x86\Debug\Easytech.Form3.resources
+E:\CHEMISTRY\MY COMPUTER\Partha_Document\Easytech\Easytech\obj\x86\Debug\Easytech.Form4.resources
+E:\CHEMISTRY\MY COMPUTER\Partha_Document\Easytech\Easytech\obj\x86\Debug\Easytech.Form5.resources
+E:\CHEMISTRY\MY COMPUTER\Partha_Document\Easytech\Easytech\obj\x86\Debug\Easytech.Form6.resources
+E:\CHEMISTRY\MY COMPUTER\Partha_Document\Easytech\Easytech\obj\x86\Debug\Easytech.Form7.resources
+E:\CHEMISTRY\MY COMPUTER\Partha_Document\Easytech\Easytech\obj\x86\Debug\Easytech.Form8.resources
+E:\CHEMISTRY\MY COMPUTER\Partha_Document\Easytech\Easytech\obj\x86\Debug\Easytech.Form9.resources
+E:\CHEMISTRY\MY COMPUTER\Partha_Document\Easytech\Easytech\obj\x86\Debug\Easytech.MDIParent1.resources
+E:\CHEMISTRY\MY COMPUTER\Partha_Document\Easytech\Easytech\obj\x86\Debug\Easytech.Properties.Resources.resources
+E:\CHEMISTRY\MY COMPUTER\Partha_Document\Easytech\Easytech\obj\x86\Debug\Easytech.csproj.GenerateResource.Cache
+I:\My_Project\My_C#_Project\Easytech\Easytech\bin\Debug\Easytech.exe.config
+I:\My_Project\My_C#_Project\Easytech\Easytech\obj\x86\Debug\Easytech.exe
+I:\My_Project\My_C#_Project\Easytech\Easytech\obj\x86\Debug\Easytech.pdb
+I:\My_Project\My_C#_Project\Easytech\Easytech\bin\Debug\Easytech.exe
+I:\My_Project\My_C#_Project\Easytech\Easytech\bin\Debug\Easytech.pdb
+I:\My_Project\My_C#_Project\Easytech\Easytech\obj\x86\Debug\Easytech.csprojResolveAssemblyReference.cache
+I:\My_Project\My_C#_Project\Easytech\Easytech\obj\x86\Debug\Easytech.Form1.resources
+I:\My_Project\My_C#_Project\Easytech\Easytech\obj\x86\Debug\Easytech.Form10.resources
+I:\My_Project\My_C#_Project\Easytech\Easytech\obj\x86\Debug\Easytech.Form11.resources
+I:\My_Project\My_C#_Project\Easytech\Easytech\obj\x86\Debug\Easytech.Form12.resources
+I:\My_Project\My_C#_Project\Easytech\Easytech\obj\x86\Debug\Easytech.Form13.resources
+I:\My_Project\My_C#_Project\Easytech\Easytech\obj\x86\Debug\Easytech.Form2.resources
+I:\My_Project\My_C#_Project\Easytech\Easytech\obj\x86\Debug\Easytech.Form3.resources
+I:\My_Project\My_C#_Project\Easytech\Easytech\obj\x86\Debug\Easytech.Form4.resources
+I:\My_Project\My_C#_Project\Easytech\Easytech\obj\x86\Debug\Easytech.Form5.resources
+I:\My_Project\My_C#_Project\Easytech\Easytech\obj\x86\Debug\Easytech.Form6.resources
+I:\My_Project\My_C#_Project\Easytech\Easytech\obj\x86\Debug\Easytech.Form7.resources
+I:\My_Project\My_C#_Project\Easytech\Easytech\obj\x86\Debug\Easytech.Form8.resources
+I:\My_Project\My_C#_Project\Easytech\Easytech\obj\x86\Debug\Easytech.Form9.resources
+I:\My_Project\My_C#_Project\Easytech\Easytech\obj\x86\Debug\Easytech.MDIParent1.resources
+I:\My_Project\My_C#_Project\Easytech\Easytech\obj\x86\Debug\Easytech.Properties.Resources.resources
+I:\My_Project\My_C#_Project\Easytech\Easytech\obj\x86\Debug\Easytech.csproj.GenerateResource.Cache
+E:\CHEMISTRY\MY COMPUTER\My_Project\My_C#_Project\Easytech\Easytech\bin\Debug\Easytech.exe.config
+E:\CHEMISTRY\MY COMPUTER\My_Project\My_C#_Project\Easytech\Easytech\obj\x86\Debug\Easytech.exe
+E:\CHEMISTRY\MY COMPUTER\My_Project\My_C#_Project\Easytech\Easytech\obj\x86\Debug\Easytech.pdb
+E:\CHEMISTRY\MY COMPUTER\My_Project\My_C#_Project\Easytech\Easytech\bin\Debug\Easytech.exe
+E:\CHEMISTRY\MY COMPUTER\My_Project\My_C#_Project\Easytech\Easytech\bin\Debug\Easytech.pdb
+E:\CHEMISTRY\MY COMPUTER\My_Project\My_C#_Project\Easytech\Easytech\obj\x86\Debug\Easytech.csprojResolveAssemblyReference.cache
+E:\CHEMISTRY\MY COMPUTER\My_Project\My_C#_Project\Easytech\Easytech\obj\x86\Debug\Easytech.Form1.resources
+E:\CHEMISTRY\MY COMPUTER\My_Project\My_C#_Project\Easytech\Easytech\obj\x86\Debug\Easytech.Form10.resources
+E:\CHEMISTRY\MY COMPUTER\My_Project\My_C#_Project\Easytech\Easytech\obj\x86\Debug\Easytech.Form11.resources
+E:\CHEMISTRY\MY COMPUTER\My_Project\My_C#_Project\Easytech\Easytech\obj\x86\Debug\Easytech.Form12.resources
+E:\CHEMISTRY\MY COMPUTER\My_Project\My_C#_Project\Easytech\Easytech\obj\x86\Debug\Easytech.Form13.resources
+E:\CHEMISTRY\MY COMPUTER\My_Project\My_C#_Project\Easytech\Easytech\obj\x86\Debug\Easytech.Form2.resources
+E:\CHEMISTRY\MY COMPUTER\My_Project\My_C#_Project\Easytech\Easytech\obj\x86\Debug\Easytech.Form3.resources
+E:\CHEMISTRY\MY COMPUTER\My_Project\My_C#_Project\Easytech\Easytech\obj\x86\Debug\Easytech.Form4.resources
+E:\CHEMISTRY\MY COMPUTER\My_Project\My_C#_Project\Easytech\Easytech\obj\x86\Debug\Easytech.Form5.resources
+E:\CHEMISTRY\MY COMPUTER\My_Project\My_C#_Project\Easytech\Easytech\obj\x86\Debug\Easytech.Form6.resources
+E:\CHEMISTRY\MY COMPUTER\My_Project\My_C#_Project\Easytech\Easytech\obj\x86\Debug\Easytech.Form7.resources
+E:\CHEMISTRY\MY COMPUTER\My_Project\My_C#_Project\Easytech\Easytech\obj\x86\Debug\Easytech.Form8.resources
+E:\CHEMISTRY\MY COMPUTER\My_Project\My_C#_Project\Easytech\Easytech\obj\x86\Debug\Easytech.Form9.resources
+E:\CHEMISTRY\MY COMPUTER\My_Project\My_C#_Project\Easytech\Easytech\obj\x86\Debug\Easytech.MDIParent1.resources
+E:\CHEMISTRY\MY COMPUTER\My_Project\My_C#_Project\Easytech\Easytech\obj\x86\Debug\Easytech.Properties.Resources.resources
+E:\CHEMISTRY\MY COMPUTER\My_Project\My_C#_Project\Easytech\Easytech\obj\x86\Debug\Easytech.csproj.GenerateResource.Cache
